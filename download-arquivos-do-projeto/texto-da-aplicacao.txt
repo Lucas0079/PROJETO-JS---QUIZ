@@ -1,0 +1,23 @@
+Título: --------QUIZ DE FATOS HISTÓRICOS--------
+
+TEXTO DE BOAS-VINDAS:
+
+Seja Bem-vindo jogador(a)!
+Digite o seu nome:
+
+
+TEXTO REFERENTE A RESPOSTA DO USUÁRIO
+
+Resposta correta!
+Resposta errada!
+
+
+TEXTO REFERENTE AO RESULTADO FINAL
+
+OH NÃO! Tente mais uma vez.
+BOM TRABALHO! Pratique um pouco mais.
+MUITO BOM! Você acertou a maioria.
+EXCELENTE! Você é um verdadeiro expert.
+
+Jogador(a): [[nome do jogador]]
+Pontuação final: [[pontuação final]] acertos. 

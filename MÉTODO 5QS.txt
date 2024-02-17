@@ -1,0 +1,38 @@
+Método 5Q's  para montar um algorítimo:
+
+Analise criticamente o problema e descubra:
+(Tente explicar este problema para você mesmo em voz alta e 
+peça mais informações/investigue mais até você 
+compreender completamente o problema.)
+
+
+1. Quais são os dados de entrada necessários?
+2. O que devo fazer com estes dados?
+3. Quais são as restrições deste problema?
+4. Qual é o resultado esperado?
+5. Qual é sequência de passos a ser feitas para 
+chegar ao resultado esperado
+
+
+1. O nome e a resposta do usuário.
+
+2. Receber e armazenar o nome do usuário. Selecionar 10 perguntas aleatórias da coleção de dados, exibir uma perguntar
+e solicitar a resposta do usuário.Receber a resposta do usuário, valida-la, exibir uma mensagem especifica se a
+resposta for correta ou incorreta, exibir nova pergunta. Ciclo continua até o usuário responder 10 perguntas.
+Após a 10 pergunta, exibir o nome do jogador,pontuação final e mensagem de encerramento. Fim da aplicação.
+
+3. Caso a resposta do usuário for diferente de um número inteiro(ano) ela vai ser considerada incorreta.O programa
+só deve ser finalizado após o usuário responder 10 perguntas.
+
+4. Que o programa exiba as 10 perguntas aleatórias e informe pro usuário de acordo com sua resposta, se está correta
+ou incorreta. No final o programa deve exibir o nome do usuário, sua pontuação total e uma mensagem de acordo
+com a sua pontuação.
+
+5.
+	1.Importar o readline-sync pra utilizar o input
+	2.Dar Mensagem de boas vindas
+	3.Receber o nome do usuário através do input e armazenar o valor na variável Jogador
+	4.Importar a coleção de dados
+	5.Criar a função que recebe e retorna 10 perguntas aleatórias da coleção de dados
+	6.Criar a função que exibe a pergunta,receber,armazena e retorna a resposta do usuário (parei aqui)
+	
